@@ -1,2 +1,4 @@
 # hello-world
-First repository
+
+Hello everyone, B-Gin here !
+Developping ASP.NET MVC Application !
